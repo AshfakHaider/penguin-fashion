@@ -1,0 +1,54 @@
+.logo img{
+    width: 50%;
+}
+.padding{
+    padding-left: 10%;
+}
+ .card-background{
+    /*background-color: rgb(245, 243, 241);
+    border-radius: 20px; */
+    border: 0;
+
+
+}
+.card-background img{
+    height: 350px;
+}
+.b img{
+    height: 30px;
+    width: 30px;
+}
+.b{
+    background-color: #3D4FF3;
+    border: 1px solid #3D4FF3 ;
+    border-radius: 10px;
+}
+h5{
+    font-size: 24px;
+    font-weight: 700;
+    color: #363958;
+}
+p{
+    font-size: 16;
+}
+@media (max-width: 768px){
+    .icon img{
+        max-width: 20%;
+    }
+}
+h2{
+    font-size: 48px;
+    font-weight: 700;
+    color: #363958;
+}
+.orange{
+    color: #FA804C;
+    
+}
+h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.spacer{
+    margin-top: 200px;
+}
